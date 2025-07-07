@@ -1,13 +1,20 @@
-# Menu simple avec choix multiple pour un client
+#  Simple menu with multiple choices for a customer
 
 menu = {
     "1": ("Chapati", 1000),
     "2": ("Mandazi", 500),
     "3": ("Rolex", 2500),
-    "4": ("Rice + Beans", 3000),
-    "5": ("Rice + Beef Stew", 5000),
+    "4": ("Rice_Beans", 3000),
+    "5": ("Rice_Beef_Stew", 5000),
     "6": ("Soda", 2000),
-    "7": ("Fresh Juice", 2500)
+    "7": ("Fresh_Juice", 2500),
+    "8": ("Black_tea", 1000),
+    "9":("Milk_tea", 2000),
+    "10":("Cake", 2000),
+    "11":("Omelets", 2500),
+    "12":("Sambuusa", 1000),
+    "13":("Rice_chicken_matooke", 10000),
+    "14":("Rice_groundnuts_matooke", 6000)
 }
 
 print("STUDENT MEAL SPOT MENU")
